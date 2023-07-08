@@ -1,0 +1,2 @@
+This lesson is meant as a simple introduction to print statements
+Try editing the print statement to say whatever you want!

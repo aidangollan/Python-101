@@ -1,0 +1,5 @@
+This lesson is meant to teach you about initial string varables, as well as input
+The strings you will need are as follows, these are for formatting
+note, the input syntax is "input("output message here)"
+"Please input your name "
+"The user's name is "
