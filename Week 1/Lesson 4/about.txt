@@ -1,0 +1,39 @@
+This lesson will get you started on more advanced data types, such as lists
+We will additonally be working on basic loops
+Loop syntax:
+for i in range(start, end, increment):
+    code to be ran
+
+while i < 100:
+    code to be ran
+    i += 1 (loop won't end otherwise)
+
+List syntax:
+    list = []
+    list.append(1)
+    list = [1]
+    list.append(2)
+    list = [1,2]
+    list[0] == list[1] : False
+    list.pop() : removes last element
+    list = [1]
+
+Strings:
+"Please enter your name: "
+"The people in the list are"
+"The second person in the list is "
+"The last person in the list is "
+
+Example:
+Input: "John Bob Stop"
+Output: 
+Please enter your name: John
+Please enter your name: Bob
+Please enter your name: Stop
+The people in the list are
+Jonh
+James
+Bob
+
+The second person in the list is Bob
+The last person in the list is Bob
