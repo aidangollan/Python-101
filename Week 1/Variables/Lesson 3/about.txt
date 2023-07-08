@@ -1,0 +1,26 @@
+This lesson is teaching you about if statements, as well as type conversion
+When you type something into an input, it will always be a string
+However we want to do math operations on this input, so we need to convert it to an int (float would also work)
+type syntax:
+To string: str(var)
+To int: int(var)
+To float: float(var)
+
+The user should have these number scores correspond to the following letter grades
+0 <= score < 60 : F
+60 <= score < 70 : D
+70 <= score < 80 : C
+80 <= score < 90 : B
+90 <= score <= 100 : A
+
+IF syntax: 
+if "truth value" :
+    "code to be run"
+elif "alternate truth value":
+    "code to be run"
+else:
+    "code to be run"
+
+Strings: 
+"Enter your score here "
+"The user's grade is a "
