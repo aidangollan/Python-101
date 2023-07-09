@@ -31,8 +31,7 @@ Please enter your name: John
 Please enter your name: Bob
 Please enter your name: Stop
 The people in the list are
-Jonh
-James
+John
 Bob
 
 The second person in the list is Bob

@@ -1,0 +1,38 @@
+This lesson will teach you about dictionarys and sets
+A dictionary is a set of key, value pairs, where each key has assigned to it a value
+This can be thought of as assigning a score to each student
+A set is similar, except it only hold indivdual peices of information
+As in math, a set has no duplicate elements
+
+You will also be using functions, a function is a piece of code that can be reused
+an easy example function would be this one
+def add(a, b):
+    return a + b
+
+For this lesson you will be re doing some of your previous work, but then adding onto it
+Instead of using many if-else statements, you will be using a dictionary
+The rubric will be the same
+0 <= score < 60 : F
+60 <= score < 70 : D
+70 <= score < 80 : C
+80 <= score < 90 : B
+90 <= score <= 100 : A
+
+You will take in a dictionary of student names as the keys, and a list of their grades as the key
+I want you to output the letter grade for each student's overall score
+I then want you to calculate the best, and the worst student
+I also want you to calculate which scores showed up, and which didn't
+
+Dict and set syntax
+dict = {}
+my_set = set()
+
+dict[key] = value
+print(dict[key]) : prints "value"
+dict[key1] + dict[key2] = val1 + val2
+
+Strings:
+"The letter grade for " + name + " is " + grade
+"The best student is " + name + " with a grade of " + grade
+"The worst student is " + name + " with a grade of " + grade
+"The scores that showed up are "
